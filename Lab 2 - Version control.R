@@ -2,6 +2,7 @@
 # Lab - Session 2 - Version control ----------------
 # https://raw.githack.com/intro-to-data-science-22/labs/main/session-2-version-control/2-git.html
 
+## BRANCH: ADDED NEW BRANCH
 
 # Set-up your script ------------------------------------------------------
 install.packages(c("tidyverse", "gapminder", "pacman")) # uncomment if already installed
